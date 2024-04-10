@@ -5,6 +5,10 @@
     font-weight: 300;
 }
 
+.small_txt {
+    font-size: 0.6rem !important;
+}
+
 body {
     box-sizing: border-box;
     /* border: blue solid; */
